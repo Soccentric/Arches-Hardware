@@ -1,5 +1,29 @@
 # Arches-Hardware
 
+## 🌟 Welcome to Arches-Hardware - Open Source AI Platform
+
+**Accelerating Edge AI Through Open Collaboration**
+
+This repository houses the complete design schematics, Bill of Materials (BOM), and comprehensive documentation for our Arches-Hardware platform - a powerful NVIDIA Jetson Orin NX and Nano based solution optimized for AI at the edge. By open-sourcing these designs, we're breaking down barriers to AI hardware development and enabling a global community to innovate faster and more efficiently.
+
+### 🎯 Our Mission
+At Soccentric, we believe AI should be accessible to everyone. Our open source initiative aims to:
+- **Democratize AI Hardware**: Provide proven, high-performance AI platform designs
+- **Foster Innovation**: Create a foundation for the next generation of intelligent devices
+- **Build Community**: Unite developers, researchers, and businesses in collaborative advancement
+- **Accelerate Time-to-Market**: Offer ready-to-use templates for rapid product development
+
+### 📋 What's Included
+- **Complete Hardware Designs**: Full schematics and PCB layouts for Jetson-based platforms
+- **Detailed BOM**: Curated component lists with multiple sourcing options
+- **Manufacturing Files**: Gerber files, drill files, and assembly drawings
+- **Design Validation**: Test procedures, performance benchmarks, and validation reports
+- **Software Integration**: Sample applications and integration guides
+- **Thermal Management**: Heat sink designs and thermal analysis data
+
+**Author:** Sandesh Ghimire  
+**©** Sandesh@soccentric.com
+
 ## Overview
 NVIDIA Jetson Orin NX and Nano based hardware platform providing high-performance AI computing at the edge. These System-on-Modules deliver exceptional AI inference capabilities with power-efficient processing, making them perfect for autonomous machines, robotics, and intelligent video analytics.
 
@@ -63,3 +87,71 @@ All platforms have:
 - **Cloud Integration**: Seamless connection to cloud AI services
 - **Partner Ecosystem**: Extensive hardware and software partner support
 - **Long-term Support**: Extended software maintenance and updates
+
+## 🚀 Getting Started
+
+### Prerequisites
+- NVIDIA Jetson Orin NX/Nano module
+- PCB manufacturing capabilities
+- Thermal management components
+- AI development environment (JetPack SDK)
+
+### Quick Start
+1. **Explore the Designs**: Review schematics in `hardware/schematics/`
+2. **Review BOM**: Check component availability in `bom/`
+3. **Manufacture PCB**: Use files in `pcb/` for fabrication
+4. **Assemble & Test**: Follow guides in `docs/`
+5. **Deploy AI Models**: Use provided examples to get started
+
+### Development Environment
+- **JetPack SDK**: NVIDIA's complete development platform
+- **Isaac Platform**: Robotics and AI development framework
+- **DeepStream**: Video analytics SDK
+- **TensorRT**: High-performance deep learning inference
+
+## 🤝 Contributing
+
+Join our community of AI hardware innovators!
+
+### Ways to Contribute
+- **AI Model Optimization**: Share optimized models for the platform
+- **Performance Benchmarks**: Contribute benchmark results and comparisons
+- **Hardware Improvements**: Submit design enhancements and optimizations
+- **Documentation**: Help expand guides and tutorials
+- **Bug Fixes**: Report and fix issues in designs or documentation
+
+### Development Workflow
+1. Fork this repository
+2. Create your feature branch (`git checkout -b feature/ai-enhancement`)
+3. Make your changes and test thoroughly
+4. Commit with clear messages (`git commit -m 'Optimize thermal design'`)
+5. Push and create a Pull Request
+
+### Guidelines
+- Test all hardware changes on actual boards
+- Include performance metrics for AI-related changes
+- Document thermal and power considerations
+- Follow NVIDIA's Jetson design guidelines
+
+## 📄 License
+
+Licensed under CERN Open Hardware Licence Version 2 - Permissive. See [LICENSE](LICENSE) for full terms.
+
+This license enables commercial use, modification, and distribution of derivative works while requiring attribution.
+
+## 📞 Support & Community
+
+- **Issues**: [GitHub Issues](https://github.com/soccentric/Arches-Hardware/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/soccentric/Arches-Hardware/discussions)
+- **NVIDIA Forums**: Connect with the broader Jetson community
+- **Email**: hardware@soccentric.com for business inquiries
+
+## 🙏 Acknowledgments
+
+- NVIDIA for the revolutionary Jetson platform
+- Our contributors and early adopters
+- The AI and robotics communities driving innovation
+
+---
+
+**Powered by AI, Fueled by Community - Soccentric**
