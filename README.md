@@ -6,6 +6,8 @@
 
 This repository houses the complete design schematics, Bill of Materials (BOM), and comprehensive documentation for our Arches-Hardware platform - a powerful NVIDIA Jetson Orin NX and Nano based solution optimized for AI at the edge. By open-sourcing these designs, we're breaking down barriers to AI hardware development and enabling a global community to innovate faster and more efficiently.
 
+![Arches-Hardware Platform](Arches-Hardware.jpg)
+
 ### 🎯 Our Mission
 At Soccentric, we believe AI should be accessible to everyone. Our open source initiative aims to:
 - **Democratize AI Hardware**: Provide proven, high-performance AI platform designs
